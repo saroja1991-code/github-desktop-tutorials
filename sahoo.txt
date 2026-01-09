@@ -1,2 +1,3 @@
 i am application support engineer
 i know linux
+i know sql
